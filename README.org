@@ -1,0 +1,2 @@
+* About
+A Git implementation in pure Erlang.
