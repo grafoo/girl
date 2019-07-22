@@ -1,2 +1,6 @@
 * About
 A Git implementation in pure Erlang.
+
+* References
+https://git.kernel.org/pub/scm/git/git.git/tree/README.md
+https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
